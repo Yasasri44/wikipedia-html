@@ -4,9 +4,8 @@ This project is a *Wikipedia-style HTML page* that explains *HTML basics* with e
 
 - *Markup explanation* (tags, attributes, empty elements)
 - *"Hello World" HTML example*
-- *Element examples* (head, title, link)
-- *Heading examples* (<h1> to <h6>)
 - *History and HTML version timeline*
+- *Element examples* (head, title, link)
 
 ---
 
@@ -28,9 +27,9 @@ Clean HTML layout styled with CSS
 
 Wikipedia-inspired formatting
 
-Code examples shown in <pre> blocks
 
-Headings examples from <h1> to <h6>
+
+
 
 
 
