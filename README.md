@@ -31,3 +31,7 @@ Wikipedia-inspired formatting
 Code examples shown in <pre> blocks
 
 Headings examples from <h1> to <h6>
+
+
+
+
